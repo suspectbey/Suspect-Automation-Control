@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-10-15",
+  "title": "SUSPECT v1.0.0 — Kararlı Sürüm",
+  "changelog": [
+    "Otomatik Güncelleme Sistemi (Auto-Updater) aktif edildi",
+    "Ultra hızlı FiveM Chat & Tuş Otomasyonu (60ms - 90ms optimize)",
+    "Gelişmiş Galeri (15 araç) ve VIP (12 kademe) teslimat motoru",
+    "1.3 saniye güvenlik gecikmesi ile hatasız /dv yönetimi",
+    "Discord rich webhook bildirimleri ve oyuncu etiket desteği",
+    "6 Farklı Tema ve Özelleştirilebilir Accent / Vurgu Renkleri"
+  ],
+  "downloadUrl": "https://github.com/suspectbey/Suspect-Suspect-Automation-Control-/releases/latest/download/Suspect-Portable.exe",
+  "mandatory": false,
+  "notes": "SUSPECT FiveM Automation & Management Platform"
+}
